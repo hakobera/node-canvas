@@ -8,6 +8,8 @@
 #ifndef __NODE_CANVAS_H__
 #define __NODE_CANVAS_H__
 
+#include <sys/types.h>
+
 #include <v8.h>
 #include <node.h>
 #include <node_object_wrap.h>
